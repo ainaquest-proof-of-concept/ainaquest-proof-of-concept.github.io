@@ -6,16 +6,33 @@ Proof of Concept is an easily accessible mobile app that fosters kinship with pl
 We are working to implement a point-based reward system and leaderboard to create a more interactive and engaging experience for users.  Users can earn points by scanning and identifying plants which will contribute to their ranking on the leaderboard.  The number of points gained will depend on the type of plant (canoe, native, or invasive) - encouraging users to learn more about the plants in their local environment.
 
 ## Updates
-### Week 1 (Feb 27, 2025)
+### Week 1 (Jan 27, 2025)
+Kick-Off Week
+
+Brainstorming Ideas
+1. Plant Card Game 
+2. Point and Leaderboard System
+3. Virtual Graden
 
 
 ### Week 2 (Feb 3, 2025)
+We decided on implementing idea #2 (Point and Leaderboard System) and worked on fleshing out our idea.
 
 
 ### Week 3 (Feb 10, 2025)
 
+Weekly Tasks:
+1. Get last semester's work running for everyone
+2. Look more into the API used by last semester's team
+3. Begin implementation of Leaderboard page
+
 
 ### Week 4 (Feb 17, 2025)
+
+Weekly Tasks:
+1. Get last semester's work running for Delsin and Lloyd
+2. Work on switching over PlantNet API and DigitalOcean ownership from last semester's group to AinaQuest
+3. Work on Leaderboard page’s functionality
 
 
 ### Week 5 (Feb 24, 2025)
