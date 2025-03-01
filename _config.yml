@@ -5,15 +5,3 @@ theme: jekyll-theme-midnight
 
 plugins:
   - jekyll-mentions
-
-author:
-  name: Ainaquest
-
-#Example navigation menu
-nav:
-  - title: Home
-    url: /
-  - title: About
-    url: /blog/
-  - title: Progress
-    url: /progress/
