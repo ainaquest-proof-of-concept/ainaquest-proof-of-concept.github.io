@@ -1,7 +1,7 @@
 title: Aina Quest Proof of Concept
 description: Discover, Catch, Collect, the Islands are Yours to Gather!
-show_downloads: true
-remote_theme: mmistakes/minimal-mistakes@3.4.8
+show_downloads: false
+theme: jekyll-theme-midnight
 
 plugins:
   - jekyll-mentions
