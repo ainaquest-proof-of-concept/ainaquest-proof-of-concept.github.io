@@ -1,8 +1,8 @@
 title: Aina Quest Proof of Concept
-description: insert something here
+description: Discover, Catch, Collect, the Islands are Yours to Gather!
 google_analytics:
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 
 gems:
   - jekyll-mentions
