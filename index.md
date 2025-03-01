@@ -46,6 +46,7 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
 3. **Enhanced Leaderboard Functionality:**
    Further development on the leaderboard's functionality was undertaken, including creation of the UI and point allocation.
 
+---
 
 ### Week 5 (Feb 24, 2025)
 **Weekly Tasks:**
