@@ -5,7 +5,8 @@ We are actively developing a dynamic point-based reward system and interactive l
 
 ---
 
-<h2 style="text-align: center;"> Updates </h2>
+<h2 style="text-align: center; font-size: 2em;"> Updates </h2>
+
 
 ---
 
@@ -26,11 +27,11 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
 ### Week 3 (Feb 10, 2025) 
 
 **Weekly Tasks:**
-1. **Integration**
+1. **Integration:**
    Worked to get last semester's codebase running for all members.
-2. **API Exploration**
+2. **API Exploration:**
    We dove deeper into the API used by the previous team to understand its strengths and limitations, streamlining the process.
-3. **Leaderboard Implementation**
+3. **Leaderboard Implementation:**
    Initial coding efforts began to lay the groundwork for the leaderboard page, setting up the UI framework and basic logic.
 
 ---
@@ -38,7 +39,7 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
 ### Week 4 (Feb 17, 2025)
 
 **Weekly Tasks:**
-1. **Legacy Support**
+1. **Legacy Support:**
    Ensured the last semesters was fully operational for Delsin and Lloyd
 2. **API and Hosting Transition:**
    We began migrating the PlantNet API integration transferring DigitalOcean hosting responsibilities from the previous team to now.
@@ -48,11 +49,11 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
 
 ### Week 5 (Feb 24, 2025)
 **Weekly Tasks:**
-1. **Global vs. Friends Leaderboard**
+1. **Global vs. Friends Leaderboard:**
    Held detailed discussions to define the goals and metrics for implementing a dual leaderboard system-one for friends-based rankings and another for global standings.
-2. **Profile Page Initialization**
+2. **Profile Page Initialization:**
    Introduced and finalized concepts for the profile page to enhance user personalization and engagement.
-3. **Plant Reference Database**
+3. **Plant Reference Database:**
    A preliminary list of plants was compiled to serve as in-app references, ensuring capture has a defined dataset.
-4. **Camera Functionality**
+4. **Camera Functionality:**
    Initial steps were taken to integrate and optimize the camera functionality, the key for scanning and identifying plants, as previously it was reported to have bugs pertaining to its responsiveness
