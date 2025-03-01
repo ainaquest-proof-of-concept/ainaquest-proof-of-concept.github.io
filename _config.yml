@@ -5,3 +5,6 @@ theme: jekyll-theme-midnight
 
 plugins:
   - jekyll-mentions
+
+author:
+  name: AinaQuest
