@@ -1,8 +1,19 @@
 title: Aina Quest Proof of Concept
 description: Discover, Catch, Collect, the Islands are Yours to Gather!
-google_analytics:
 show_downloads: true
-theme: jekyll-theme-hacker
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 
 gems:
   - jekyll-mentions
+
+author:
+  name: Ainaquest
+
+#Example navigation menu
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /blog/
+  - title: Progress
+    url: /progress/
