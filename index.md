@@ -58,7 +58,7 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
 <div style="text-align: center;">
    <h3> <strong> Leaderboard Implementation: Final </strong> </h3>
    <video controls style="max-width: 35%; margin: 0 auto;" width="560">
-      <source src="assets/videos/Expo_Go_Video.mp4" type="video/mp4">
+      <source src="assets/videos/Expo_Go_Video_Final.mp4" type="video/mp4">
       Your browser does not support this video.
    </video>
 </div>
