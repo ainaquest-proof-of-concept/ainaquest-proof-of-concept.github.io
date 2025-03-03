@@ -35,7 +35,7 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
    Initial coding efforts began to lay the groundwork for the leaderboard page, setting up the UI framework and basic logic.
 
 <div style="text-align: center;">
-   [Leaderboard Implementation](assets/images/Expo_Go.jpg)
+   <img src="/assets/images/Expo_Go.jpg" alt="Leaderboard Implementation" style="max-width: 100%; height: auto;">
 </div>
 
 ---
