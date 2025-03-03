@@ -35,8 +35,8 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
    Initial coding efforts began to lay the groundwork for the leaderboard page, setting up the UI framework and basic logic.
 
 <div style="text-align: center;">
-   <h4> Leaderboard Implementation: Beginning </h4>
-   <img src="/assets/images/Expo_Go.jpg" alt="Leaderboard Implementation" style="max-width: 25%; height: auto;">
+   <h3> <strong> Leaderboard Implementation: Beginning </strong></h3>
+   <img src="/assets/images/Expo_Go.jpg" alt="Leaderboard Implementation" style="max-width: 35%; height: auto;">
 </div>
 
 ---
@@ -52,8 +52,8 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
    Further development on the leaderboard's functionality was undertaken, including creation of the UI and point allocation.
 
 <div style="text-align: center;">
-   <h4> Leaderboard Implementation: Final </h4>
-   <video controls style="max-width: 25%; margin: 0 auto;" width="560">
+   <h3> <strong> Leaderboard Implementation: Final </strong> </h3>
+   <video controls style="max-width: 35%; margin: 0 auto;" width="560">
       <source src="assets/videos/Expo_Go_Video.mp4" type="video/mp4">
       Your browser does not support this video.
    </video>
