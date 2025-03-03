@@ -1,11 +1,11 @@
-<h1 style="text-align: center; font-size: 2.5em; margin-bottom: 0.5em;"> Project Description </h1>
+<h1 style="text-align: center; font-size: 2.5em; margin: 0 auto;"> Project Description </h1>
 **Proof of Concept**  is an easily accessible mobile app designed to foster a deeper connection with the natural world-specifically, the plants that surround us. With this app, users can simply point their mobile device at a plant in any real-life environment to quickly identify it. Upon scanning, the app generates a collectible card for the plant, providing interesting facts, care tips, and ecological information.
 
 We are actively developing a dynamic point-based reward system and interactive leaderboard. This system not only gamifies plant identification, but also encourages users to explore and learn about the diverse flora in their local area. Users earn points through every successful plant scan and identification, with the points varying based on the plant's category (canoe, native, or invasive). This encourages users to gain a deeper understanding of their environment.
 
 ---
 
-<h2 style="text-align: center; font-size: 2em;"> Updates </h2>
+<h2 style="text-align: center; font-size: 2em; margin: 0 auto;"> Updates </h2>
 
 
 ---
