@@ -34,6 +34,10 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
 3. **Leaderboard Implementation:**
    Initial coding efforts began to lay the groundwork for the leaderboard page, setting up the UI framework and basic logic.
 
+<div style="text-align: center;">
+   ![Leaderboard Implementation](assets/images/Expo_Go.jpg)
+</div>
+
 ---
 
 ### Week 4 (Feb 17, 2025)
@@ -45,6 +49,13 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
    We began migrating the PlantNet API integration transferring DigitalOcean hosting responsibilities from the previous team to now.
 3. **Enhanced Leaderboard Functionality:**
    Further development on the leaderboard's functionality was undertaken, including creation of the UI and point allocation.
+
+<div style="text-align: center;">
+   <video controls style="max-width: 100%; margin: 0 auto;" width="560">
+      <source src="assets/videos/Expo_Go_Video.mp4" type="video/mp4">
+      Your browser does not support this video.
+   </video>
+</div>
 
 ---
 
