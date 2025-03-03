@@ -1,4 +1,4 @@
-<div style="text-align: center; padding: 2em 0;">
+<div style="text-align: center; padding: 1em 0;">
    <h1 style="font-size: 2.5em;"> Project Description </h1>
 </div>
 **Proof of Concept:**  is an easily accessible mobile app designed to foster a deeper connection with the natural world-specifically, the plants that surround us. With this app, users can simply point their mobile device at a plant in any real-life environment to quickly identify it. Upon scanning, the app generates a collectible card for the plant, providing interesting facts, care tips, and ecological information.
@@ -7,7 +7,7 @@ We are actively developing a dynamic point-based reward system and interactive l
 
 ---
 
-<div style="text-align: center; padding: 2em 0;">
+<div style="text-align: center; padding: 1em 0;">
    <h2 style="font-size: 2.5em;"> Updates </h2>
 </div>
 
