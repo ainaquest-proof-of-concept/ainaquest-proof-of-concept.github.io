@@ -15,6 +15,7 @@ We are actively developing a dynamic point-based reward system and interactive l
 ---
 
 ### Week 1 (Jan 27, 2025) 
+
 **Kick-Off Week**
 We began this project with a brainstorming session to explore multiple creative directions. This included:
 1. **Plant Card Game**: Gamified approach of collecting and trading cards
@@ -24,6 +25,7 @@ We began this project with a brainstorming session to explore multiple creative 
 ---
 
 ### Week 2 (Feb 3, 2025)
+
 After evaluating our initial ideas, we decided to focus on collecting plants on a **Point and Leaderboard** system. During this week, our team refined the concept, and began outlining the data structures and scoring mechanisms that will form the backbone of the interactive leaderboard.
 
 ---
@@ -38,7 +40,7 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
 3. **Leaderboard Implementation:**
    Initial coding efforts began to lay the groundwork for the leaderboard page, setting up the UI framework and basic logic.
 
-<div style="text-align: center;">
+<div style="text-align: center; padding-bottom: 1em 0;">
    <h3> <strong> Leaderboard Implementation: Beginning </strong></h3>
    <img src="/assets/images/Expo_Go.jpg" alt="Leaderboard Implementation" style="max-width: 35%; height: auto;">
 </div>
@@ -55,7 +57,7 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
 3. **Enhanced Leaderboard Functionality:**
    Further development on the leaderboard's functionality was undertaken, including creation of the UI and point allocation.
 
-<div style="text-align: center;">
+<div style="text-align: center; padding-bottom: 1em 0;">
    <h3> <strong> Leaderboard Implementation: Final </strong> </h3>
    <video controls style="max-width: 35%; margin: 0 auto;" width="560">
       <source src="assets/videos/Expo_Go_Video_Final.mp4" type="video/mp4">
@@ -66,6 +68,7 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
 ---
 
 ### Week 5 (Feb 24, 2025)
+
 **Weekly Tasks:**
 1. **Global vs. Friends Leaderboard:**
    Held detailed discussions to define the goals and metrics for implementing a dual leaderboard system-one for friends-based rankings and another for global standings.
