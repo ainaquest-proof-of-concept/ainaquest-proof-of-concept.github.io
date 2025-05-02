@@ -137,7 +137,7 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
    - Exploring Augmented Reality interactions for plant identification or visualization using Unity and AR Foundation.
    - New Unity Scene and Project created.
    - Experimented with AR plane detection and object placement with sample picture placeholder and asset.
-   - Prototype inspiration: https://www.youtube.com/watch?v=GfS72wqKQ_g
+   - Prototype inspiration: [Let's Make an AR App in 15 Minutes! (Beginner Friendly)](https://www.youtube.com/watch?v=GfS72wqKQ_g)
 4. **Authentication Flows Finalization**
    - Completed the end-to-end login, logout, and signup functionality completely across front-end.
    - Screens for the above are built and styled.
