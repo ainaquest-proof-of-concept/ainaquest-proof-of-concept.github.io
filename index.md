@@ -122,6 +122,8 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
    - Initial API client code added to the project.
    - Test requests return sample JSON in the console.
 
+---
+
 ### Meeting 8 (April 08, 2025)
 
 **Weekly Tasks**
