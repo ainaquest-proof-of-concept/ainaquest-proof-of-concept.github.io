@@ -142,6 +142,18 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
    - Completed the end-to-end login, logout, and signup functionality completely across front-end.
    - Screens for the above are built and styled.
    - Backend endpoints for registration in JWT-based login and logout exist, but need integration.
+  
+<div style="display: flex; justify-content: center; gap: 2em; flex-wrap: wrap;">
+   <div style="text-align: center;">
+      <h3>Sign In</h3>
+      <img src="/assets/images/sign-in.png" alt="Sign In" style="max-width: 200px; width: 100%; height: auto;">
+   </div>
+   <div style="text-align: center;">
+      <h3>Sign Up</h3>
+      <img src="/assets/images/sign-up.png" alt="Sign Up" style="max-width: 200px; width: 100%; height: ayro;">
+   </div>
+</div>
+
 <h2 style="text-align: center"> Poster has been started, and in progress, will have the final output by April 17th.</h2>
 
 ---
@@ -151,14 +163,14 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
 **Weekly Tasks**
 1. **AR Demo Enhancement**
    - Core AR demo complete: Can detect certain surfaces and place plant model/cards in the environment.
-     Future Changes:
+   - Future Changes:
      - Polish interactions (tap to zoom, drag to reposition)
      - Optimize performance
      - Dynamic model generation
 2. **Completion of Collection Page**
    - Fully revamped the "Collections" screen to display user plant cards with improved layout.
    - Redesigned UI implemented with enhanced styling.
-<h2 style="text-align: center"> Poster Draft Completion. </h2>
+<h2 style="text-align: center;"> Poster Draft Completion. </h2>
 
 ### Meeting 10 (April 24, 2025)
 
@@ -172,6 +184,17 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
 3. **Fixes and Refinements**
    - Polishing, and listing critical fixes to be resolved.
    - Priority in focusing on the more important features to be presentable before the deadline.
+
+<div style="text-align: center; margin: 2em 0;">
+   <h3> <strong> Camera Functionality Example </strong> </h3>
+   <video
+      controls
+      style="max-width: 100%; height: auto;"
+   >
+   <source src="/assets/videos/plant-recording.mp4" type="video/mp4">
+   Your browser does not support this video.
+   </video>
+</div>
 
 ---
 
@@ -190,3 +213,14 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
    - The app marks each plant as found once the user identifies it, preventing duplicate rewards and enabling collection progress.
    - The "found" flag toggles correctly on identification and persists in the local collection state.
    - Duplicate scans do not grant extra points.
+  
+<div style="display: flex; justify-content: center; gap: 2em; flex-wrap: wrap;">
+   <div style="text-align: center;">
+      <h3>Sign In</h3>
+      <img src="/assets/images/plant-card.jpg" alt="Sign In" style="max-width: 200px; width: 100%; height: auto;">
+   </div>
+   <div style="text-align: center;">
+      <h3>Sign Up</h3>
+      <img src="/assets/images/plant-information.jpg" alt="Sign Up" style="max-width: 200px; width: 100%; height: ayro;">
+   </div>
+</div>
