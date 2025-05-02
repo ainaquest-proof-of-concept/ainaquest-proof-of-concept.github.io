@@ -145,15 +145,16 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
   
 <div style="display: flex; justify-content: center; gap: 2em; flex-wrap: wrap;">
    <div style="text-align: center;">
-      <h3>Sign In</h3>
+      <h3><strong>Sign In</strong></h3>
       <img src="/assets/images/sign-in.png" alt="Sign In" style="max-width: 200px; width: 100%; height: auto;">
    </div>
    <div style="text-align: center;">
-      <h3>Sign Up</h3>
-      <img src="/assets/images/sign-up.png" alt="Sign Up" style="max-width: 200px; width: 100%; height: ayro;">
+      <h3><strong>Sign Up</strong></h3>
+      <img src="/assets/images/sign-up.png" alt="Sign Up" style="max-width: 200px; width: 100%; height: auto;">
    </div>
 </div>
 ---
+
 <h2 style="text-align: center"> Poster has been started, and in progress, will have the final output by April 17th.</h2>
 
 ---
@@ -220,11 +221,11 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
   
 <div style="display: flex; justify-content: center; gap: 2em; flex-wrap: wrap;">
    <div style="text-align: center;">
-      <h3>Plant Card</h3>
+      <h3> <strong> Plant Card </strong> </h3>
       <img src="/assets/images/plant-card.jpg" alt="Sign In" style="max-width: 200px; width: 100%; height: auto;">
    </div>
    <div style="text-align: center;">
-      <h3>Plant Information</h3>
-      <img src="/assets/images/plant-information.jpg" alt="Sign Up" style="max-width: 200px; width: 100%; height: ayro;">
+      <h3> <strong> Plant Identification </strong> </h3>
+      <img src="/assets/images/plant-information.jpg" alt="Sign Up" style="max-width: 200px; width: 100%; height: auto;">
    </div>
 </div>
