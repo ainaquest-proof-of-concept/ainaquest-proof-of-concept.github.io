@@ -153,7 +153,7 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
       <img src="/assets/images/sign-up.png" alt="Sign Up" style="max-width: 200px; width: 100%; height: ayro;">
    </div>
 </div>
-
+---
 <h2 style="text-align: center"> Poster has been started, and in progress, will have the final output by April 17th.</h2>
 
 ---
@@ -170,8 +170,12 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
 2. **Completion of Collection Page**
    - Fully revamped the "Collections" screen to display user plant cards with improved layout.
    - Redesigned UI implemented with enhanced styling.
+
+---
+
 <h2 style="text-align: center;"> Poster Draft Completion. </h2>
 
+---
 ### Meeting 10 (April 24, 2025)
 
 **Weekly Tasks**
@@ -189,7 +193,7 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
    <h3> <strong> Camera Functionality Example </strong> </h3>
    <video
       controls
-      style="max-width: 100%; height: auto;"
+      style="max-width: 35%; margin: 0 auto;" width="560"
    >
    <source src="/assets/videos/plant-recording.mp4" type="video/mp4">
    Your browser does not support this video.
@@ -216,11 +220,11 @@ After evaluating our initial ideas, we decided to focus on collecting plants on 
   
 <div style="display: flex; justify-content: center; gap: 2em; flex-wrap: wrap;">
    <div style="text-align: center;">
-      <h3>Sign In</h3>
+      <h3>Plant Card</h3>
       <img src="/assets/images/plant-card.jpg" alt="Sign In" style="max-width: 200px; width: 100%; height: auto;">
    </div>
    <div style="text-align: center;">
-      <h3>Sign Up</h3>
+      <h3>Plant Information</h3>
       <img src="/assets/images/plant-information.jpg" alt="Sign Up" style="max-width: 200px; width: 100%; height: ayro;">
    </div>
 </div>
